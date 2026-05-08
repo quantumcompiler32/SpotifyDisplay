@@ -1,6 +1,6 @@
 # SpotifyDisplay
 
-<img width="1691" height="934" alt="Screenshot 2026-04-16 at 11 30 39 PM" src="https://github.com/user-attachments/assets/6edf5d63-de09-41ea-a1d9-3ae5f65073b1" />
+<img width="1710" height="978" alt="Screenshot 2026-05-07 at 11 48 56 PM" src="https://github.com/user-attachments/assets/4af5d4cb-7b99-4688-bc6f-e85761cd7ab9" />
 
 Overview
 
