@@ -30,7 +30,7 @@ Bill of Materials (BOM)
 
 Full BOM CSV available in [`bom/SpotifyDisplayV3BOM.csv`](bom/SpotifyDisplayV3BOM.csv).
 
-<img width="1301" height="442" alt="image" src="https://github.com/user-attachments/assets/202d1462-8a24-48db-8bd6-fd6fd0c85223" />
+<img width="1301" height="442" alt="image" src="https://github.com/user-attachments/assets/22c064c8-bc6e-4b7f-aba9-c0736102d18d" />
 
 
 
